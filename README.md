@@ -1,0 +1,1 @@
+# admob1-app-ads.txt
